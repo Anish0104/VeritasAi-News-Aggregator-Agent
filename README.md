@@ -42,7 +42,6 @@ This repository is intentionally scoped to the core assets that matter most for 
 | File | Purpose |
 | --- | --- |
 | [`templates.py`](templates.py) | Full frontend template embedded as a Python raw string |
-| [`generate_veritas_notebook.py`](generate_veritas_notebook.py) | Generates the Colab notebook from the current local source |
 | [`VeritasAI_Colab_Submission.ipynb`](VeritasAI_Colab_Submission.ipynb) | Ready-to-open Colab notebook artifact |
 
 ## Interface Highlights
